@@ -8,7 +8,7 @@ url="http://www.tott.es"
 license=("PerlArtistic")
 depends=()
 source=("https://github.com/totte/xcursor-neutra/archive/master.zip")
-sha256sums=("f7435f798fb26da2d6fafe182d2e968ff94b5cc830972464305b27b3cdb35e3e")
+sha256sums=("60522d63b08a940078cce665d54654bfd604d36d2134ba7e0872cad52b602ed2")
 
 package() {
   install -dm755 "$pkgdir"/usr/share/icons/Neutra
